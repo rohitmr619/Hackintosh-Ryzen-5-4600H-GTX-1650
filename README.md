@@ -61,7 +61,7 @@ This repository provides EFI configurations and instructions to install macOS on
 - **HDMI:** Currently not functional. Workarounds may involve using USB-C to HDMI adapters if supported by your laptop.
 - **Graphics:** Nvidia GTX 1650 is disabled; rely on integrated graphics for display output.
 
-##Images
+## Images
 
 
 ![Screenshot 2024-06-30 at 3 47 01 PM](https://github.com/user-attachments/assets/7f6d82ce-188f-4b53-ac8c-abd2828226bf)
