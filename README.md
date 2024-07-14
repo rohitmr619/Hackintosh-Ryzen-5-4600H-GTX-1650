@@ -64,8 +64,6 @@ This repository provides EFI configurations and instructions to install macOS on
 ## Images
 
 
-![Screenshot 2024-06-30 at 3 47 01 PM](https://github.com/user-attachments/assets/7f6d82ce-188f-4b53-ac8c-abd2828226bf)
-
 ![Screenshot 2024-07-14 at 1 42 00 PM](https://github.com/user-attachments/assets/b73ad81c-c410-4f43-ab35-269d6fec4f9b)
 
 ![Screenshot 2024-07-14 at 1 41 34 PM](https://github.com/user-attachments/assets/04e8b094-d9bb-40e2-b6bf-5cc6d3b41054)
